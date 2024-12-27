@@ -1,3 +1,4 @@
-# Curso Digital: Git
+# Curso Digital: Git/Versionamento
 
-## Gravando mundaças no repositório
+## Salvando modificações no Git
+* comando git push
